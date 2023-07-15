@@ -1,2 +1,2 @@
-<h1 align="center"><strong>Material Bread</strong></h1>
+<h1 align="center span class="bolded">Material Bread</h1>
 <h1 align="center">Material Bread</h1>
